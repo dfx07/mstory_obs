@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bda84ef55fb280a",
+            "id": "8b3a4e3af5526458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule/CadView.md",
+                "file": "tools/win11-installer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CadView"
-            }
-          },
-          {
-            "id": "ffae6af3a1c6c2ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schedule/CadView.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CadView"
-            }
-          },
-          {
-            "id": "d0c05c1b544c8792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Englishs/Sentences.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sentences"
+              "title": "win11-installer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +171,15 @@
   },
   "active": "3e7cf2aa77f7a666",
   "lastOpenFiles": [
+    "durty.md",
+    "tools/win11-installer.md",
+    "tools",
+    "OpenGL/assets/Pasted image 20250907100808.png",
+    "lang/eng/Sentences.md",
+    "lang/eng/Sentence patterns.md",
+    "lang/eng/Newwords.md",
+    "daily/2025.09.21.md",
+    "schedule/CadView.md",
     "lang",
     "OpenGL/OpenGL.md",
     "OpenGL/Intro.md",
@@ -210,9 +190,7 @@
     "Schedule/CadView.md",
     "Schedule",
     "index.base",
-    "Untitled.md",
     "Daily",
-    "OpenGL/assets/Pasted image 20250907100808.png",
     "OpenGL/assets",
     "Pasted image 20250907100134.png",
     "OpenGL",
